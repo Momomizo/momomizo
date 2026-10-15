@@ -1,0 +1,10 @@
+KANJIDIC2 derived data — kanji.json
+Copyright James William BREEN and the Electronic Dictionary Research and Development Group (EDRDG).
+Licensed under Creative Commons Attribution-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-sa/4.0/
+https://www.edrdg.org/edrdg/licence.html
+Documentation: https://www.edrdg.org/wiki/index.php/KANJIDIC_Project
+Source: https://www.edrdg.org/kanjidic/kanjidic2.xml.gz
+Changes: extracted literal, first stroke count (s), Japanese readings (r), nanori (n), and grade (g) into compact JSON. The derived file is CC BY-SA 4.0.
+Names.json is a separately curated set, not extracted from KANJIDIC2.
+No endorsement by EDRDG is implied. See README.md for update instructions.
